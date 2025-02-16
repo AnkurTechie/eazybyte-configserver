@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to eazybank cards related prod APIs"
+  contactDetails:
+    name: "Rine Aishwarya - Developer"
+    email: "aish@eaxybank.com"
+  onCallSupport:
+    -(555)555-4829
+    -(555)555-4545
