@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to eazybank loans related prod APIs"
+  message: "Welcome to eazybank loans related production APIs"
   contactDetails:
     name: "Rine Aishwarya - Developer"
     email: "aish@eaxybank.com"
